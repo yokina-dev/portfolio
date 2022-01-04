@@ -1,3 +1,31 @@
 body{
+    padding: 10px;
     font-family: 'Montserrat', sans-serif;
+}
+
+.color-purp{
+    color: purple;
+}
+
+section{
+    display: flex;
+}
+
+.img-main{
+    border-radius: 35px;
+}
+
+.span-class{
+    color: red;
+}
+
+h1{
+    font-size: 50px;
+}
+
+.link-cls{
+    border-radius: 5px;
+    background-color:red;
+    padding: 10px 40px;
+    color: black;
 }
