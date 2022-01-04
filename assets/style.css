@@ -1,31 +1,35 @@
 body{
-    padding: 10px;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    padding: 50px;
+    
 }
 
-.color-purp{
-    color: purple;
+.title{
+    font-size: 50px;
+    color: indigo;
 }
 
 section{
     display: flex;
 }
 
-.img-main{
-    border-radius: 35px;
-}
-
-.span-class{
+section span{
     color: red;
 }
 
-h1{
-    font-size: 50px;
+.section-one{
+    width: 50%;
 }
 
-.link-cls{
-    border-radius: 5px;
-    background-color:red;
+.section-one img{
+    
+}
+
+.link-button{
+    color: white;
+    text-decoration: none;
     padding: 10px 40px;
-    color: black;
+    border-radius: 8px;
+    background-image: linear-gradient(orange, tomato);
+    font-weight: 400;
 }
