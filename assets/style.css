@@ -9,8 +9,9 @@ body{
     color: indigo;
 }
 
-section{
+.flexsection{
     display: flex;
+    padding: 20px;
 }
 
 section span{
@@ -52,4 +53,15 @@ section span{
 
 .img-red{
     padding: 50px;
+}
+
+.lexbaba{
+    width: 50px;
+}
+
+.character h1{
+    color: salmon;
+}
+.character p{
+color: sandybrown;
 }
